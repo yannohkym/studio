@@ -1,0 +1,19 @@
+{
+  "name": "PHPmailer/studio",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "yannoh",
+      "email": "iankym1997@gmail.com"
+    }
+  ],
+  "require": {
+    "autoload": {
+      "psr-4": {
+        "studio\\mail\\": "src"
+      }
+    }
+  }
+}
